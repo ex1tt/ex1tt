@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm ex1tt</h1>
-<h3 align="left">An ambitious computer science student at University College Cork</h3>
+<h3 align="left">An eager CompSci student at University College Cork</h3>
 
-- 🔭 I'm currently building an **Online Portfolio**
+- 🔭 Currently building an **Online Portfolio**
 
-- 🌱 I’m currently learning **MySQL, C++, Assembly**
+- 🌱 Currently learning **MySQL, C++, Assembly**
 
 - 📫 How to reach me **albertmurphy128@gmail.com**
 
