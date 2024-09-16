@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm ex1tt</h1>
-<h3 align="center">A computer science student at University College Cork</h3>
+<h1 align="left">Hi 👋, I'm ex1tt</h1>
+<h3 align="left">A computer science student at University College Cork</h3>
 
 - 🔭 I'm currently building an **Online Portfolio**
 
@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I play guitar**
 
-<img src="ezgif.com-video-to-gif-converter.gif" alt="BIT RUN">
+<img src="ezgif.com-video-to-gif-converter.gif" alt="BIT RUN" width="150">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
