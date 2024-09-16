@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm ex1tt</h1>
-<h3 align="left">A computer science student at University College Cork</h3>
+<h3 align="left">An ambitious computer science student at University College Cork</h3>
 
 - 🔭 I'm currently building an **Online Portfolio**
 
