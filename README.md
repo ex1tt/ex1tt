@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I play guitar**
 
-- <h3 align="left">BIT Run</h3>
+<h3 align="left">A game I made called [BIT RUN]</h3>
 
 <img src="ezgif.com-video-to-gif-converter.gif" alt="BIT RUN" width="300">
 
