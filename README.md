@@ -11,7 +11,7 @@
 
 <h3 align="left">A game I made called [BIT RUN]</h3>
 
-<img src="ezgif.com-video-to-gif-converter.gif" alt="BIT RUN" width="300" style="border: 5px solid black; border-radius: 10px;">
+<img src="ezgif.com-video-to-gif-converter.gif" alt="BIT RUN" width="300" style="border: 5 solid white; border-radius: 10;">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
