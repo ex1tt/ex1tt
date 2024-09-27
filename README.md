@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm ex1tt</h1>
 <h3 align="left">An eager CompSci student at University College Cork</h3>
 
-- 🔭 Currently building a **Interactive CV/Portfolio Using HTML, CSS, Javascript**
+- 🔭 Currently building an **Interactive CV/Portfolio Using HTML, CSS, Javascript**
 
 - 🌱 Currently learning **MySQL, C++, Assembly, WebDev**
 
