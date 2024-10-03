@@ -5,7 +5,7 @@
 
 - 🌱 Currently learning **MySQL, C++, Assembly, WebDev**
 
-- 📫 How to reach me **nice*try*scraper*@gmail.com**
+- 📫 How to reach me **nice..try..scraper..@gmail.com**
 
 - ⚡ Fun fact **I play guitar**
 
