@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **I play guitar**
 
+-  ❗ Quality of code increases the newer the project
+
 <h3 align="left">A game I made called [BIT RUN]</h3>
 
 <img src="ezgif.com-video-to-gif-converter.gif" alt="BIT RUN" width="300" style="border: 5px solid white; border-radius: 10px;">
