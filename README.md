@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm ex1tt</h1>
+<h1 align="left">Hi 👋, I'm ex1tt / Al</h1>
 <h3 align="left">An eager CompSci student at University College Cork</h3>
 
 - 🔭 Currently building an **Interactive CV/Portfolio Using HTML, CSS, Javascript**
