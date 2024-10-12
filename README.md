@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm ex1tt / Al</h1>
 <h3 align="left">An eager CompSci student at University College Cork</h3>
 
-- 🔭 Currently building an **Web app to track daily habits**
+- 🔭 Currently building a **web app to track daily habits with node.js, react, sql**
 
 - 🌱 Currently learning **MySQL, C++, Assembly, WebDev**
 
