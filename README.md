@@ -11,6 +11,8 @@
 
 - 💻 Portfolio <a href="https://cs1.ucc.ie/~mca1/portfolio/index.html" target="_blank">**Here**</a>
 
+[![An image of @ex1tt's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ex1tt)](https://holopin.io/@ex1tt)
+
 <h3 align="left">A game I made called [BIT RUN]</h3>
 
 <img src="ezgif.com-video-to-gif-converter.gif" alt="BIT RUN" width="300" style="border: 5px solid white; border-radius: 10px;">
