@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I play guitar**
 
-- 💻 Portfolio <a href="https://cs1.ucc.ie/~mca1/portfolio/index.html" target="_blank">**Here**</a>
+- 💻 Portfolio <a href="ex1tt.github.io/portfolio/my-cv.pdf" target="_blank">**Here**</a>
 
 <h3 align="left">A game I made called [BIT RUN]</h3>
 
