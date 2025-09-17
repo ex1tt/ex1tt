@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm ex1tt / Al</h1>
-<h3 align="left">An eager CompSci student at University College Cork</h3>
+<h3 align="left">An eager Maths and Physics student at University College Cork</h3>
 
 - 🔭 Currently building a **Code sharing platform/Social network with python, javascript flask, sql, html, css**
 
